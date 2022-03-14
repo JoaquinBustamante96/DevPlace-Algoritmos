@@ -1,6 +1,4 @@
-package com.company;
-
-import java.util.Scanner;
+package algoritmos;
 
 public class Main {
 
